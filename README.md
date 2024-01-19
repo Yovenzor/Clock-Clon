@@ -1,6 +1,8 @@
 # Clock Clon
 
+## Screenshot
 
+![samsung](https://github.com/Yovenzor/Clock-Clon/assets/102180213/acd4ad35-2f99-4473-8651-6cd9bb3689a9)
 
 ## Authors
 
@@ -10,11 +12,8 @@
 ## Where I upload content?
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovenzor-singh)
-
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yovenzorsingh?sub_confirmation=1)
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YovenzorS)
-
 [![Live Badge](https://img.shields.io/badge/Live-cyan?style=for-the-badge&logoColor=white)](https://yovenzor.github.io/Samsung-Clock-Clon)
 
 
